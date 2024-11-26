@@ -1,5 +1,7 @@
 # -NLP---Emotion_Classification_in_Text: Formative Assessment
 
+![image alt](https://github.com/AswathyD31/-NLP---Emotion_Classification_in_Text/blob/3d21d39217a6991a76367a4544b760a5a12c5093/vector-2.png)
+
 # Overview
 
 This project aims to classify text data into different emotions (e.g., anger, fear, joy) using Natural Language Processing (NLP) techniques and machine learning models. It involves preprocessing raw text data, extracting meaningful features, training classification models, and evaluating their performance.
