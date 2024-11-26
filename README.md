@@ -17,17 +17,17 @@ _______
   
 * Bag of Words (BoW) representation using CountVectorizer
 
-# Model Training:
++ **Model Training:**
 
 * Naive Bayes
   
 * Support Vector Machine (SVM)
   
-# Evaluation:
++ **Evaluation:**
 
-Accuracy and F1 Score
+* Accuracy and F1 Score
 
-+ Detailed classification report for model comparison
+* Detailed classification report for model comparison
 
 ## Dataset
 
