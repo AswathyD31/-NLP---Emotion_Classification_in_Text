@@ -21,7 +21,7 @@ _______
   
 * Bag of Words (BoW) representation using CountVectorizer
 
-##Model Training:
+## Model Training:
 
 * Naive Bayes
   
