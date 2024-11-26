@@ -7,37 +7,42 @@ This project aims to classify text data into different emotions (e.g., anger, fe
 # Features
 _______
 
-+ **Data Preprocessing:**
+## Data Preprocessing:
   
 * Text cleaning (lowercasing, punctuation removal, stopword removal)
+  
 * Tokenization
+  
 * Lemmatization
 
-+ **Feature Extraction:**
+## Feature Extraction:
   
 * Bag of Words (BoW) representation using CountVectorizer
 
-+ **Model Training:**
+##Model Training:
 
 * Naive Bayes
   
 * Support Vector Machine (SVM)
   
-+ **Evaluation:**
+## Evaluation:
 
 * Accuracy and F1 Score
 
 * Detailed classification report for model comparison
 
-## Dataset
+### Dataset
 
 * The dataset contains text comments labeled with emotions (anger, fear, joy). Each text comment is processed and transformed into numerical features for model training.
 
 # Results
 
 Model |	Accuracy | F1 Score
+
 Naive Bayes |	89.13% |	89.13%
+
 Support Vector Machine |	91.66% |	91.63%
+
 
 **Best Model: Support Vector Machine (SVM)**
 
